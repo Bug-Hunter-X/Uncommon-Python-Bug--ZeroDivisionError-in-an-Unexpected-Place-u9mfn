@@ -1,0 +1,1 @@
+This repository showcases an uncommon error in Python code. The `bug.py` file contains a function that demonstrates an unexpected ZeroDivisionError due to implicit variable usage and conditional logic. The solution file, `bugSolution.py`, shows a corrected version that handles the edge case to prevent the error. 
